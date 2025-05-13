@@ -91,7 +91,7 @@ An overview of how it works, getting started, creating a wallet, and making your
 
 
 
-#### ** 🚨 Make sure to submit everything by email to `null@xrpl-commons.org` before Sunday at 2:30 PM! 🚨 **
+#### **🚨 Make sure to submit everything by email to `null@xrpl-commons.org` before Sunday at 2:30 PM! 🚨**
 
 
 <div align="right">
