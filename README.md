@@ -89,12 +89,10 @@ An overview of how it works, getting started, creating a wallet, and making your
 - All projects must submit transactions to the L1.
 - Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
 
-<div align="center">
-</br>
 
-#### **🚨 Make sure to submit everything before Sunday at 3:30 PM using [this link](https://app.bizthon.com/main/idea/add/67eb56a9db7b4be196caa18f?addIdea=true)! 🚨**
 
-#### **You need to prepare a 5 minute pitch followed by a 2 minute Q&A session.**
+#### ** 🚨 Make sure to submit everything by email to `null@xrpl-commons.org` before Sunday at 2:30 PM! 🚨 **
+
 
 <div align="right">
 
