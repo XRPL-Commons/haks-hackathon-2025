@@ -57,13 +57,10 @@ Here are some project examples :
 
 **A workshop will introduce you to the basics of the XRPL, including creating transactions, NFTs, and interacting with a wallet like Xaman, to help you effectively develop your project.**
 
-### Workshop 1 *(Saturday 10h00 - 11h00)*
+### Workshop 1 *(Saturday 10:00AM - 11:00AM)*
 
-> In the first part how to build on the XRPLedger? 
+> How to build on the XRPLedger? 
 An overview of how it works, getting started, creating a wallet, and making your first transaction.
-
-> Second part, how can we interact with the Xaman wallet to create and sign transactions, manage NFTs, and explore real-world use cases?
-
 
 ---
 
@@ -91,7 +88,7 @@ An overview of how it works, getting started, creating a wallet, and making your
 
 
 
-#### **🚨 Make sure to submit everything by email to `null@xrpl-commons.org` before Sunday at 2:30 PM! 🚨**
+#### **🚨 Make sure to submit everything by email to `hackathons@xrpl-commons.org` before Sunday at 2:30 PM! 🚨**
 
 
 <div align="right">
@@ -122,6 +119,10 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - Thomas (XRPL Commons) *Technology*
 - Florian (XRPL Commons) *Technology*
 - Mathis (XRPL Commons) *Technology*
+- Amaury (XRPL Commons) *Technology*
+- Romain (XRPL Commons) *Technology*
+
+And 9 amazing volunteers !
 
 <div align="right">
 
@@ -134,9 +135,9 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 
 #### Slides
 
-[HAKS Hackathon Opening eremony](./pdf/void.pdf)
+[HAKS Hackathon Opening Ceremony](./pdf/20250516 HAKS Opening Ceremony.pdf)
 
-[HAKS Hackathon Workshop 1](./pdf/void.pdf)
+[HAKS Hackathon Workshop 1](./pdf/20250517 HAKS Workshop 1.pdf)
 
 #### Wifi password
 
