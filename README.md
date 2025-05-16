@@ -135,9 +135,10 @@ And 9 amazing volunteers !
 
 #### Slides
 
-[HAKS Hackathon Opening Ceremony](./pdf/20250516 HAKS Opening Ceremony.pdf)
 
-[HAKS Hackathon Workshop 1](./pdf/20250517 HAKS Workshop 1.pdf)
+[HAKS Hackathon Opening Ceremony](https://github.com/XRPL-Commons/haks-hackathon-2025/pdf/20250516%20HAKS%20Opening%20Ceremony.pdf)
+
+[HAKS Hackathon Workshop 1](https://github.com/XRPL-Commons/haks-hackathon-2025/pdf/20250517%20HAKS%20Workshop%201.pdf)
 
 #### Wifi password
 
